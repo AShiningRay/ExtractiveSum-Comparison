@@ -1,0 +1,176 @@
+#Resenha_0
+#Aspectos: A0_atendimento, A1_comida, A2_ruído, A3_acomodação
+#Estrelas: 4
+[Atendimento bom]_[A0,+] e [almoço saboroso]_[A1,+]
+[Muito bem atendita e recepcionada.]_[A0,+]
+[Quarto silencioso.]_[A2,+]
+[Água quentinha do chuveiro.]_[A3,+]
+[Tudo bem higienizado]_[A3,+].
+[Me chamou atenção ter de fazer o pagamento do restaurante a cada pedido na hora da entrega.]_[A0,-]
+E também nao poder marcar na conta do quarto o consumo no bar do hall principal.
+Mas isso é apenas um detalhe.
+
+#Resenha_1
+#Aspectos: A0_ruído, A1_comida, A2_atendimento
+#Estrelas: 4
+Barulho
+[Fiquei no 14 andar onde você escuta muito barulho]_[A0,-] no quarto ao lado devido a porta de contato entre eles.
+[Hospedes conversam e você nao consegue descansar.]_[A0,-]
+No mais foi excelente a experiencia, [Restaurante muito agradevel]_[A1,+] [comida e bebidas dentro de um excelente padrão]_[A1,+], [juntamente com o atendimento]_[A2,+].
+
+#Resenha_2
+#Aspectos: A0_instalação, A1_atendimento, A2_acomodação
+#Estrelas: 5
+Simplesmente incrível.
+Ótima experiência, [hotel muito bonito e bem estruturado]_[A0,+] os [funcionários atenciosos e educados]_[A1,+], [serviços prestados de primeira qualidade]_[A1,+], [quarto confortável]_[A2,+] cama espaço e travesseiro muito macio.
+Ótima hospedagem.
+
+#Resenha_3
+#Aspectos: A0_acomodação, A1_atendimento
+#Estrelas: 5
+[Muito aconchegante]_[A0,+]
+O hotel [conseguiu nos atender em meio a hospedagem do time do Flamengo]_[A1,+] sem prejuízo a nossa privacidade e conforto.
+Os [funcionários foram extremamente profissionais e atenciosos]_[A1,+].
+Ótima experiência para nossa família!
+
+#Resenha_4
+#Aspectos: A0_instalação, A1_acomodação, A2_atendimento
+#Estrelas: 1
+Para ser hotel 5 estrelas precisam melhorar muito desde atendimento ao cliente até as estruturas
+[Tivemos muita problemas em nossa estadia um casal e 3 crianças]_[A0,-], primeiro [não tem ar condicionado quente e frio]_[A1,-], [toalhas de banho quase transparentes de tão velhas]_[A1,-], pé da cama quebrou tivemos que tirar inspires pés para que uma das crianças pudesse dormir, [no restaurante do hotel não conseguiram nos acomodar para um jantar por sermos 5 pessoas]_[A2,-] queriam nos colocar em uma mesa no bar isso porque [ficaram nos enrolando para nos atender]_[A2,-] e por último peguei 2 quartos e não nos deram o conjugado pior foi ficar em um quarto conjugado que estavam outro casal e seu filho e para nós eu pedi quarto conjugado e disseram que não seria possível lembrando que meus filhos ficaram em outro quarto que tinha porta conjugada também.
+Resumo tudo muito ruim experiência hoteleira péssima detalhe era aniversário do meu filho do meio no dia da jantar no hotel.
+[Hotel em reforma]_[A0,-] também
+
+#Resenha_5
+#Aspectos: A0_instalação, A1_acomodação
+#Estrelas: 4
+[Condições muito boas do hotel]_[A0,+] como um todo!
+Tudo de muito boa qualidade, mas [no banheiro tinha um pequeno vazamento atrás do vaso sanitário]_[A1,-] (reportado na portaria, quando do check out) que molhou o tapete do banheiro e, com o frio, dificultou ainda mais o seu uso.
+
+#Resenha_6
+#Aspectos: A0_atendimento, A1_acomodação
+#Estrelas: 1
+pessimo
+[o atendimento do local é pessimo]_[A0,-], liguei pedindo uma informacao sobre o jantar dos dia dos namorados, a moça que atendeu me passou uma informacao errada e o hotel nao fez a minima questao de se desculpar pelo mal-feito.
+[Além dos quartos serem extremamente antigos e desconfortaveis]_[A1,-].
+Local para velhos que nao conseguem superar que o hotel está antiquado.
+
+#Resenha_7
+#Aspectos: A0_acomodação, A1_atendimento, A2_comida
+#Estrelas: 4
+Muito boa noite de nupcias
+[Tudo no quarto estava legal]_[A0,+], bem limpo e arrumado, [check in rápido]_[A1,+]...
+[Infelizmente esqueceram de levar nosso café da manhã que agendamos no dia anterior]_[A1,-], chegou com atraso após solicitarmos novamente e [foi muito bom]_[A2,+].
+
+#Resenha_8
+#Aspectos: A0_atendimento, A1_acomodação, A2_instalação
+#Estrelas: 1
+Indignada com poucas horas de estadia.
+Desde que realizei meu check in no hotel [estou indignada com as solicitações que fiz ao hotel]_[A0,-]. Cheguei e [minha cama estava com um desnível]_[A1,-] (para cama de casal foi unido duas camas de solteiro).
+Solicitei que fosse arrumado o desnível e me deixaram um cobertor para que eu mesma o fizesse, até aí ok.
+[Fui usar o cofre e o mesmo não está funcionando.]_[A1,+]
+Mas o pior até agora, solicitei uma água quente para fazer o mama do meu filho, já que o hotel não conta com uma copa baby, e me foi cobrado um valor de 10 reais pela água quente!
+Até hoje isso nunca me aconteceu em nenhum hotel que frequentei com ele.
+Fica aqui minha indignação.
+Um hotel que fiquei com a garantia da fama que tem, mas que [até o momento deixou em muito a desejar.]_[A2,-]
+Vamos ver como serão os próximos dias…
+
+#Resenha_9
+#Aspectos: A0_instalação, A1_comida, A2_acomodação, A3_atendimento
+#Estrelas: 4
+Pernoite a trabalho
+Hotel [bem localizado em frente ao shopping]_[A0,+], o que [oferece opções para o jantar que não seja o restaurante do hotel.]_[A1,+]
+[Quartos com bom tamanho]_[A2,+] e [atendimento de modo geral bem solicito.]_[A3,+]
+Estacionamento poderia ser coberto e com preço padrão de outros hoteis.
+
+#Resenha_10
+#Aspectos: A0_instalação, A1_comida, A2_atendimento, A3_acomodação
+#Estrelas: 5
+Ótima estadia
+Ótimo hotel,  [Muito confortável]_[A3,+], [café da manhã perfeito!]_[A1,+]
+[Atendimento dos funcionários foi perfeito]_[A2,+], e a limpeza também foi perfeita!
+[As áreas do hotel são muito bem limpas e aconchegantes]_[A0,+], foi uma estadia muito agradável.
+
+#Resenha_11
+#Aspectos: A0_instalação
+#Estrelas: 2
+[Espaço kids deveria ter uma estrutura para crianças]_[A0,-] como micro-ondas ...
+Ambiente 5 estrelas somente para estrangeiros na minha opinião .
+[Não tem estrutura para crianças]_[A0,-]  Tirei pratos do quarto deixei na área externa e lá ficou por 2 ou três dias assim com carinho das bagagens.
+Tem espaço kids somente para brincar
+
+#Resenha_12
+#Aspectos: A0_instalação, A1_acomodação, A2_atendimento, A3_comida
+#Estrelas: 4
+Confortável
+[O Hotel é antigo, mas as instalações são boas]_[A0,+] e o [chuveiro muito bom]_[A1,+].
+[Houve uma atraso de 2 horas na liberação do nosso quarto]_[A2,-], o que eu acho m absurdo, uma vez que a reserva estava feita há mais de 4 meses.
+[Comida do restaurante boa e o café da manhã excelente]_[A3,+].
+
+#Resenha_13
+#Aspectos: A0_instalação, A1_atendimento, A2_acomodação, A3_comida
+#Estrelas: 5
+Melhor hotel que já fiquei
+[Hotel bem bonito, espaçoso]_[A0,+], perto de shopping, com [bom atendimento]_[A1,+], piscina aquecida, [acomodações limpas e bem confortáveis]_[A2,+], [café da manhã bem diversificado e gostoso!]_[A3,+]
+Recomendo o hotel para quem quer relaxar um pouco e sair da rotina.
+
+#Resenha_14
+#Aspectos: A0_instalação, A1_acomodação, A2_comida, A3_atendimento
+#Estrelas: 2
+[Hotel antigo e com aspecto decadente]_[A0,-]
+[Em vários pontos o hotel parou no tempo e não realizou manutenções e reformas importantes.]_[A0,-]
+[O banheiro é muito antigo]_[A1,-], [o chuveiro é uma duxa antiga]_[A1,-], [os cantos da banheira estavam sujos, as paredes do box muito suja]_[A1,-].
+[O quarto tem uma decoração horrorosa, o carpete e a cortina tem um cheiro super ruim.]_[A1,-]
+[O que salva o hotel é o café da manhã]_[A2,+] e os [funcionários que são ótimos]_[A3,+].
+Mas não sei como ainda o hotel tem 5 estrelas.
+
+#Resenha_15
+#Aspectos: A0_comida, A1_acomodação
+#Estrelas: 4
+Pequenos detalhes...
+Gostei muito da hospedagem com [boas opções no cardápio para comidas e bebidas]_[A0,+].
+Os preços são altos para cerveja podendo ser melhor.
+Um detalhe que não gostei e que poderia ser revisto é o fato de pagar de imediato o consumo do restaurante no quarto ou na área da piscina.
+Penso que se estou hospedado deveria vir no checkout o valor final.
+[O quarto atendeu minha expectativa!]_[A1,+]
+
+#Resenha_16
+#Aspectos: A0_atendimento, A1_instalação, A2_acomodação, A3_comida
+#Estrelas: 5
+Excelente hotel
+[Check in rápido]_[A0,+], [ótimas instalações]_[A1,+].
+Ficamos no [quarto luxo, com banheira de imersão.]_[A2,+]
+Nada a reclamar.
+[Café da manhã excelente.]_[A3,+]
+Check out expresso e descomplicado.
+Faz jus às estrelas que possui.
+[Excelentes e educados funcionários.]_[A0,+]
+
+#Resenha_17
+#Aspectos: A0_atendimento
+#Estrelas: 2
+PEGADINHA!
+Já estive neste hotel em outra oportunidade com atendimento bom, mas desta vez fui apenas participar de um encontro de negócios.
+Chegando não encontrei vaga para estacionar.
+Manobrista do hotel "gentilmente" falou para eu deixar a chave com ele.
+Fiquei 20 minutos e quando voltei me apresentaram cobrança de uma diária.
+Achei um absurdo, principalmente pela não informação quando cheguei.
+[Reclamei na recepção e não me deram atenção.]_[A0,+]
+[Pedi Nota fiscal e me informaram que não estava funcionando.]_[A0,-]
+Muito estranho para um hotel desta categoria.
+
+#Resenha_18
+#Aspectos: A0_atendimento
+#Estrelas: 1
+[PÉSSIMO ATENDIMENTO COM OS HÓSPEDES!!! RECEPCIONISTAS DESRESPEITOSOS.]_[A0,-]
+Depois de voar a noite toda, cheguei no hotel pela manhã e perguntei se tinha a possibilidade de adiantar o check in já que tinha pago 2 diárias e só iria utilizar uma, primeiro me informaram que sim, que iriam fazer de tudo para que eu fosse logo para o quarto.
+[Logo em seguida veio uma mulher irritante desmentindo o outro funcionário e dizendo que se a gente quisesse entrar mais cedo, apenas 3 horas antes, teria que pagar o valor de 168 Reais.]_[A0,-]
+[Hotel mercenário com funcionários(RECEPCIONISTAS) ignorantes.]_[A0,-]
+NUNCA MAIS VOLTO NESSE HOTEL. E olhe que eu já tinha me hospedado nele e tinha sido diferente o atendimento. Está péssimo!!!
+
+#Resenha_19
+#Aspectos: A0_atendimento, A1_acomodação
+#Estrelas: 5
+Muitissimo satisfeito.
+[Atendimento especial]_[A0,+], [os quartos muito equipado e de facil acesso pelo elevador.]_[A1,+]
+Muitissimo elegante, somente questionei o atendimento ao servir almoco e janta ambiente muito apertado, e falta na area um lavabo URGENTE!!!
