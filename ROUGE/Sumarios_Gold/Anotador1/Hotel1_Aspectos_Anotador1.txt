@@ -1,0 +1,60 @@
+Aspecto: Alimentacao
+Café da manha muito bom. <D5_S7>
+Café da manhã bem simples. <D7_S7>
+Café da manhã com muita variedade. <D9_S4>
+Café da manhã perfeitoo. <D12_S3>
+Comida excelente. <D13_S3> 
+restaurante além de muito caro, qualidade do a la carte ruim. <D20_S3> 
+Café da manhã também não é dos melhores levando-se em consideração o valor da hospedagem! <D41_S4> 
+Restaurante tinha comida boa, mas atendimento foi regular.Esqueceram de trazer a bebida e me cobraram a mais do que estava estabelecido no cardápio e deram a desculpa que o mesmo estava desatualizado. <D42_S4> 
+Café da manhã bastante diversificado e saboroso.  <D43_S4> 
+Café da manhã caótico <D45_S1> 
+
+Aspecto: Atendimento
+Fiquei uma hora e 15 minutos na fila para fazer o check-in (sem exagero). <D7_S6> 
+Parabéns pelo atendimento, foi mto carinho envolvido . <D8_S11> 
+Todos os funcionários foram muito atenciosos. <D9_S5> 
+Atendimento de primeira, fui super bem recepcionado e assessorado durante a estadua. <D13_S5> 
+Não tive demora no check-in e nem no checkout. <D16_S4> 
+O atendimento também foi exemplar, tanto no check in, quanto durante a estadia e também no check out. <D17_S5>
+Reclamei na recepção mas não resolveu. <D19_S9>
+relatei ao chefe do restaurante que apenas disse que relataria o problema, mas não apresentou solução e/ou reparação <D20_S5>
+Atendimento excelente. <D21_S6>
+Atendimento totalmente diferenciado e padronizado. <D31_S3>
+
+Aspecto: Quarto
+Limpeza impecável, quarto muito bom. <D1_S2>
+Quarto confortável, roupa de cama de primeira, ducha excelente, tudo muito limpo, localização e cama muito boa. <D4_S2>
+Quartos confortáveis e muito bem limpos. <D4_S5>
+Quartos e banheiro antigos e cheio de problemas. <D7_S3>
+Quarto amplo, confortável, apesar do barulho do ar condicionado. <D10_S2>
+Quarto velho, pequeno e sujo. <D11_S3>
+O quarto poderia ser um pouco mais expasoso e com possibilidade de iluminação externa. <D18_S2>
+Quarto confortável, limpeza impecável. <D21_S5>
+O quarto eh bem gostoso e aconchegante, agua quentinha pro banho e pra desfrutar da banheira!!  <D32_S2>
+Quarto empoeirado e mobilia em péssima condição. <D37_S2>
+
+Aspecto: Limpeza
+Áreas sujas. <D3_S3>
+Sujeira e má qualidade <D11_S1>
+Mas achei o hotel um pouco sem cuidado, principalmente na área da piscina. <D14_S4>  
+Adoramos o quarto, muito espaçoso, confortável e limpo. <D15_S2>  
+A limpeza estava nos conformes, na segunda pela manhã visitei a área de lazer e estava sendo muito bem limpa. <D16_S3>  
+O pior foi em relação a arrumação e limpeza do quarto, simplesmente não houve em nenhum dia da minha estadia. <D19_S8>  
+Acomodação limpa e confortável, vista sensacional para a cidade, ótima localização e também um café da manhã de uma qualidade sem igual, possui grande variedade e tudo de muita qualidade. <D28_S3>  
+O quarto tem aparência de suja e o hotel como um todo também está bem defasado. <D29_S4>  
+Péssima limpeza e atendimento <D37_S1>  
+Quarto empoeirado e mobilia em péssima condição. <D37_S2>  
+
+Aspecto: Instalacoes
+Área de lazer maravilhosa, piscina, sauna, massagem, jogos tem muito o que se fazer o que torna a experiência no hotel muito boa! Recomendo!!! <D1_S4>
+Hotel de prestígio mas claramente não existe investimento em melhorias <D2_S1>
+Problema nos elevadores por serem antigos, causaram uma fila de mais de 12 minutos para conseguir descer 23 andares. <D2_S3>
+Elevadores quebrados. <D3_S6>
+Estrutura magnífica. <D5_S4>
+Reforma urgente , péssimo quarto , pelo valor , demorou uma hora e meia pra chegar um vinho rosé é quente a demora <D6_S1>
+Elevadores não funcionam direito também (demorava horrores). <D7_S5>
+É um hotel versão mais antiga mas bem confortável. <D14_S3>
+Sobre o banheiro n gostei da cuba pois ela é rasa e as mãos batem no fundo qdo vai usá-la. <D26_S3>
+O hotel é velho e tudo muito antigo. <D29_S3>
+

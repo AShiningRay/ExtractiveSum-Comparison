@@ -1,0 +1,5 @@
+Sumario Candidato: Hotel3_MMR.txt | Sumário Referência: Sumario_Geral_Hotel3_Anotador2.txt
+
+rouge-1:{'r': 0.07089119769692524, 'p': 0.08455279969670934, 'f': 0.06529837662085097}
+rouge-2:{'r': 0.02, 'p': 0.02, 'f': 0.0199999999}
+rouge-l:{'r': 0.06374874755447511, 'p': 0.07454752329680993, 'f': 0.05945991473028991}

@@ -1,0 +1,5 @@
+Sumario Candidato: Hotel5_OpizerE.sum | Sumário Referência: Hotel5_Aspectos_Anotador1.txt
+
+rouge-1:{'r': 0.04367831301391652, 'p': 0.060228399752932836, 'f': 0.04250002598843886}
+rouge-2:{'r': 0.0, 'p': 0.0, 'f': 0.0}
+rouge-l:{'r': 0.04039049570992671, 'p': 0.05743840590037691, 'f': 0.03972533120486507}
